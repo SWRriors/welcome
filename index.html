@@ -4,25 +4,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The SWRriors</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./style.css">
 </head>
 <body>
+  <canvas id="matrix"></canvas>
   <header>
     <div class="hero">
       <img src="./resources/logo.jpg" alt="SWRriors Logo" class="logo">
       <h1>The SWRriors</h1>
       <p class="tagline">"Tuning in, hacking on, and learning together!"</p>
     </div>
-    <nav>
-      <ul>
-        <li><a href="#about">About Us</a></li>
-        <li><a href="#what-we-do">What We Do</a></li>
-        <li><a href="#get-involved">Get Involved</a></li>
-      </ul>
-    </nav>
   </header>
 
   <main>
+    <nav>
+        <ul>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#what-we-do">What We Do</a></li>
+          <li><a href="#get-involved">Get Involved</a></li>
+        </ul>
+      </nav>
+
     <section id="about">
       <h2>About Us</h2>
       <p><strong>SWRriors</strong> is a passionate team of ham-radio enthusiasts who love to participate in Capture The Flag (CTF) challenges. Our interests span radio communications, cybersecurity, and problem-solving.</p>
@@ -47,5 +49,7 @@
   <footer>
     <p>&copy; 2025 The SWRriors. All rights reserved.</p>
   </footer>
+
+  <script src="./matrix.js"></script>
 </body>
 </html>
