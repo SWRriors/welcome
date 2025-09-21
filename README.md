@@ -14,7 +14,7 @@ Check out out website: [SWRriors](https://swrriors.github.io/welcome/)
 
 Interested in joining or collaborating?
 
-Feel free to reach out via [issues](https://github.com/SWRriors/welcome/issues) or connect with us on our social channels.
+Feel free to reach out via [issues](https://github.com/SWRriors/welcome/issues).
 
 ---
 
