@@ -87,10 +87,13 @@ h2 {
 /* Footer */
 footer {
   text-align: center;
-  padding: 10px;
+  padding: 20px;
   background-color: #0d1117;
   color: #8b949e;
   border-top: 1px solid #21262d;
+  max-width: 800px;
+  margin: 40px auto 20px;
+  border-radius: 16px;
 }
 
 /* Matrix Canvas */
